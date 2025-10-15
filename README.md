@@ -27,3 +27,4 @@ pip install -r requirements.txt
 voila app.ipynb
 ```
 This will serve the app at http://localhost:8866 by default.
+[![Launch CLT Visualizer on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ereinkejr/math122-clt-voila/HEAD?urlpath=voila/render/app.ipynb)
