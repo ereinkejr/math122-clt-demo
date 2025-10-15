@@ -9,12 +9,12 @@ Choose a source distribution, adjust sample sizes, and watch the sampling distri
 - `requirements.txt` — environment for Binder/Voilà
 
 ## Launch on Binder (replace `YOUR_USERNAME/YOUR_REPO`)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR_USERNAME/YOUR_REPO/HEAD?urlpath=voila/render/app.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)]([https://mybinder.org/v2/gh/ereinkejr/math122-clt-voila/HEAD?urlpath=voila/render/app.ipynb))
 
 ## Embed in a webpage
 ```html
 <iframe
-  src="https://mybinder.org/v2/gh/YOUR_USERNAME/YOUR_REPO/HEAD?urlpath=voila/render/app.ipynb"
+   src="https://mybinder.org/v2/gh/ereinkejr/math122-clt-voila/HEAD?urlpath=voila/render/app.ipynb"
   width="100%"
   height="800"
   frameborder="0">
